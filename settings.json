@@ -1,0 +1,80 @@
+{
+  "editor.fontLigatures": "true",
+  "editor.fontWeight": "400",
+  "editor.columnSelection": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.fontSize": 14.5,
+  "window.zoomLevel": 0,
+  "editor.lineHeight": 30,
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "editor.wordWrap": "on",
+  "editor.fontFamily": "JetBrains Mono, Consolas, monospace",
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+  "prettier.tabWidth": 2,
+  "prettier.jsxBracketSameLine": true,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorWidth": 2,
+  "workbench.editor.closeOnFileDelete": true,
+  "bracket-pair-colorizer-2.colors": [
+    "#FF4081",
+    "#fecd1a",
+    "#32e0c4",
+    "#ff9b93",
+    "#52de97",
+    "#9d65c9",
+    "#fd8c04"
+  ],
+  "workbench.settings.useSplitJSON": true,
+  "workbench.colorCustomizations": {
+    "[Material Theme Ocean]": {
+      "activityBarBadge.background": "#80FFDB",
+      "activityBar.activeBorder": "#80FFDB",
+      "list.activeSelectionForeground": "#80FFDB",
+      "list.inactiveSelectionForeground": "#80FFDB",
+      "list.highlightForeground": "#80FFDB",
+      "scrollbarSlider.activeBackground": "#2baa86",
+      "editorSuggestWidget.highlightForeground": "#80FFDB",
+      "textLink.foreground": "#80FFDB",
+      "progressBar.background": "#80FFDB",
+      "pickerGroup.foreground": "#80FFDB",
+      "tab.activeBorder": "#80FFDB",
+      "notificationLink.foreground": "#80FFDB",
+      "editorWidget.resizeBorder": "#80FFDB",
+      "editorWidget.border": "#80FFDB",
+      "settings.modifiedItemIndicator": "#80FFDB",
+      "settings.headerForeground": "#80FFDB",
+      "panelTitle.activeBorder": "#80FFDB",
+      "breadcrumb.activeSelectionForeground": "#80FFDB",
+      "menu.selectionForeground": "#80FFDB",
+      "menubar.selectionForeground": "#80FFDB",
+      "editor.findMatchBorder": "#80FFDB",
+      "selection.background": "#2baa86",
+      "statusBarItem.remoteBackground": "#80FFDB"
+    }
+  },
+  "editor.formatOnSave": true,
+  "prettier.trailingComma": "all",
+  "prettier.useTabs": false,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "prettier.singleQuote": false,
+  "cSpell.userWords": ["Shastri", "Shastry", "Sunil"],
+  "workbench.editorAssociations": {},
+  "workbench.iconTheme": "material-icon-theme",
+  "notebook.cellToolbarLocation": {
+    "default": "right"
+  },
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+  "liveServer.settings.CustomBrowser": "chrome",
+  "liveSassCompile.settings.formats": [
+    {
+      "savePath": "css/"
+    }
+  ],
+  "liveSassCompile.settings.generateMap": false,
+  "workbench.colorTheme": "Material Theme Ocean High Contrast",
+  "materialTheme.accent": "Cyan"
+}

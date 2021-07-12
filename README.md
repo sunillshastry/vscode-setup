@@ -1,6 +1,8 @@
 # Visual Studio Code setup
 
-### A summary of all the preferences, extensions and themes used for Visual Studio Code for web development.
+#### To install Visual Studio Code, click [here](https://code.visualstudio.com/)
+
+### A summary of all the _personal_ preferences, extensions and themes used for Visual Studio Code for web development.
 
 ## Extensions:
 
