@@ -58,3 +58,4 @@
 - `SynthWave '84` by _Robb Owen_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
 - `Theme - Oceanic Next` by _Sergii Naumov_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=naumovs.theme-oceanicnext)
 - `Tokyo Night` by _enkia_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
+- `One Monokai Theme` by _Joshua Azemoh_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai)
