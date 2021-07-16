@@ -37,25 +37,51 @@
 ## Themes
 
 - `Atom One Light Theme` by _Mahmoud Ali_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight)
+
 - `August Themes` by _inci-august_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=inci-august.august-themes)
+
 - `Aurora X` by _marqu3s_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=marqu3s.aurora-x)
+
 - `Ayu` by _teabyii_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
+
 - `Community Material Theme` by _Equinusocio_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme)
+
 - `Dark Horizon` by _mcagampan_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=mcagampan.dark-horizon)
+
 - `Dracula Official` by _Dracula Theme_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
+
 - `GitHub Theme` by _GitHub_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
+
 - `Invictus` by _Larxx_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=Larxx.invictus)
+
 - `LaserWave` by _Jared Jones_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=jaredkent.laserwave)
+
 - `lucy` by _juliettepretot_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=juliettepretot.lucy-vscode)
+
 - `Material Icon Theme` by _Philipp Kief_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
 - `Material Theme` by _Equinusocio_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
+
 - `Material Theme Icons` by _Equinusocio_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme-icons)
+
 - ` Monokai Pro` by _monokai_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
+
 - `One Dark Pro` by _binaryify_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+
 - `Palenight Theme` by _Olaolu Olawuyi_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)
+
 - `Primal` by _primalmotion_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=primalmotion.primal)
+
 - `Shades of Purple` by _Ahmad Awais_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
+
 - `SynthWave '84` by _Robb Owen_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
+
 - `Theme - Oceanic Next` by _Sergii Naumov_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=naumovs.theme-oceanicnext)
+
 - `Tokyo Night` by _enkia_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
+
 - `One Monokai Theme` by _Joshua Azemoh_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai)
+
+- `Serendipity` by _michael-andreuzza_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=wicked-labs.wvsc-serendipity)
+
+   
