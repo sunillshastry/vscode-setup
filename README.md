@@ -107,3 +107,5 @@
 - `Snazzy Light` by _Florian Reuschel_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=loilo.snazzy-light)
 
 - `Starfall` by _sndst00m_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=sndst00m.starfall-visual-studio-code)
+
+- `TSLint` by _Microsoft_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
