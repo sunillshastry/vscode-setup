@@ -103,3 +103,5 @@
 - `macOS Classic` by _Jason Lee_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=huacnlee.theme-macos-classic)
 
 - `Sass` by _Syler_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
+
+- `Snazzy Light` by _Florian Reuschel_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=loilo.snazzy-light)
