@@ -95,3 +95,5 @@
 - `ES7 React/Redux/GraphQL/React-Native snippets` by _dsznajder_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
 - `FireFly Pro` by _Ankit Mishra_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=ankitcode.firefly)
+
+- `Import Cost` by _Wix_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
