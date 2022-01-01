@@ -91,3 +91,5 @@
 - `CMake` by _twxs_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=twxs.cmake)
 
 - `CMake Tools` by _Microsoft_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools)
+
+- `ES7 React/Redux/GraphQL/React-Native snippets` by _dsznajder_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
