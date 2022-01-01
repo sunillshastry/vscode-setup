@@ -85,3 +85,5 @@
 - `Serendipity` by _michael-andreuzza_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=wicked-labs.wvsc-serendipity)
 
 - `Better C++ Syntax` by _Jeff Hykin_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-cpp-syntax)
+
+- `C/C++` by _Microsoft_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
