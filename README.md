@@ -111,3 +111,5 @@
 - `TSLint` by _Microsoft_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
 
 - `Inline Parameters for VSCode` by _Liam Hammett_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=liamhammett.inline-parameters)
+
+- `Makefile Tools` by _Microsoft_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools)
