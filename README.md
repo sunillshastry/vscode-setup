@@ -105,3 +105,5 @@
 - `Sass` by _Syler_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
 
 - `Snazzy Light` by _Florian Reuschel_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=loilo.snazzy-light)
+
+- `Starfall` by _sndst00m_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=sndst00m.starfall-visual-studio-code)
