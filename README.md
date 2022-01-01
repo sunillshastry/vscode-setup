@@ -97,3 +97,5 @@
 - `FireFly Pro` by _Ankit Mishra_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=ankitcode.firefly)
 
 - `Import Cost` by _Wix_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+
+- `JavaScript and TypeScript Nightly` by _Microsoft_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next)
