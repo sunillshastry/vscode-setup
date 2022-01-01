@@ -89,3 +89,5 @@
 - `C/C++` by _Microsoft_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 
 - `CMake` by _twxs_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=twxs.cmake)
+
+- `CMake Tools` by _Microsoft_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools)
