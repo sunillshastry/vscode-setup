@@ -109,3 +109,5 @@
 - `Starfall` by _sndst00m_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=sndst00m.starfall-visual-studio-code)
 
 - `TSLint` by _Microsoft_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
+
+- `Inline Parameters for VSCode` by _Liam Hammett_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=liamhammett.inline-parameters)
