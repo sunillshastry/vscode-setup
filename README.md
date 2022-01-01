@@ -34,6 +34,28 @@
 - `Live Sass Compiler` by _Ritwick Dey_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
 - `Live Preview` by _Microsoft_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
 
+- `TSLint` by _Microsoft_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
+
+- `Inline Parameters for VSCode` by _Liam Hammett_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=liamhammett.inline-parameters)
+
+- `Makefile Tools` by _Microsoft_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools)
+
+- `Sass` by _Syler_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
+
+- `Import Cost` by _Wix_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+
+- `JavaScript and TypeScript Nightly` by _Microsoft_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next)
+
+- `Better C++ Syntax` by _Jeff Hykin_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-cpp-syntax)
+
+- `C/C++` by _Microsoft_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
+
+- `CMake` by _twxs_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=twxs.cmake)
+
+- `CMake Tools` by _Microsoft_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools)
+
+- `ES7 React/Redux/GraphQL/React-Native snippets` by _dsznajder_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+
 ## Themes
 
 - `Atom One Light Theme` by _Mahmoud Ali_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight)
@@ -84,32 +106,10 @@
 
 - `Serendipity` by _michael-andreuzza_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=wicked-labs.wvsc-serendipity)
 
-- `Better C++ Syntax` by _Jeff Hykin_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-cpp-syntax)
-
-- `C/C++` by _Microsoft_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
-
-- `CMake` by _twxs_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=twxs.cmake)
-
-- `CMake Tools` by _Microsoft_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools)
-
-- `ES7 React/Redux/GraphQL/React-Native snippets` by _dsznajder_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
-
 - `FireFly Pro` by _Ankit Mishra_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=ankitcode.firefly)
 
-- `Import Cost` by _Wix_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
-
-- `JavaScript and TypeScript Nightly` by _Microsoft_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next)
-
 - `macOS Classic` by _Jason Lee_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=huacnlee.theme-macos-classic)
-
-- `Sass` by _Syler_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
 
 - `Snazzy Light` by _Florian Reuschel_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=loilo.snazzy-light)
 
 - `Starfall` by _sndst00m_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=sndst00m.starfall-visual-studio-code)
-
-- `TSLint` by _Microsoft_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
-
-- `Inline Parameters for VSCode` by _Liam Hammett_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=liamhammett.inline-parameters)
-
-- `Makefile Tools` by _Microsoft_. [Find on marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools)
